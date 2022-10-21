@@ -3,6 +3,7 @@
 The Anythink Frontend is an SPA written with [React](https://reactjs.org/) and [Redux](https://redux.js.org/)
 
 ## Getting started
+use 'yarn start' on command line to run the project, and then test the frontend at port 3001
 
 Make sure your server is up and running to serve requests.
 
